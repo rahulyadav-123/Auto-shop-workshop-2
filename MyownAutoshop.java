@@ -1,6 +1,6 @@
 package Autoshop;
 
-public class MyownAutoshop {
+public class Myownautoshop {
 	public static void main(String[] args) {
 		System.out.println("My own Auto shop");
 	}

@@ -1,4 +1,4 @@
-package Autoshop;
+package com.bridgelab.Autoshop;
 
 public class Myownautoshop {
 	public static void main(String[] args) {
